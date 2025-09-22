@@ -27,7 +27,7 @@ Durante este projeto, aprimorei meus conhecimentos e aprendi a aplicar os seguin
     - Entendimento do `px` como uma medida fixa.
 - **Seletores e Pseudoclasses:**
     - Diferentes seletores CSS para estilizar elementos específicos.
-    - Aplicação de pseudoclasses como `:hover` e `:active` para criar interatividade nos elementos.
+    - Aplicação de pseudoclasses como `:hover` para criar interatividade nos elementos.
 - **Ferramentas de Desenvolvimento:** Habilidade para inspecionar e testar elementos da página usando as ferramentas de desenvolvimento do navegador.
 
 ## 🚀 Tecnologias Utilizadas
