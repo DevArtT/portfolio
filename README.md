@@ -19,7 +19,7 @@ Este é o meu portfólio pessoal e profissional, desenvolvido durante as aulas d
 
 ## 🔗 Acesse o Projeto
 
-- **Link:** [https://portfolio-kohl-ten-96.vercel.app/](https://portfolio-12cp1c4v5-devartts-projects.vercel.app)
+- **Link:** https://portfolio-kohl-ten-96.vercel.app/
 
 ---
 
