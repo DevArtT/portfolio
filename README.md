@@ -9,7 +9,7 @@ Este é o meu portfólio pessoal e profissional, desenvolvido durante as aulas d
 - **Layout Profissional:** O layout foi totalmente construído com CSS, utilizando a propriedade **Flexbox** para o alinhamento e posicionamento flexível dos elementos.
 - **Responsividade:** A página é responsiva, adaptando-se a diferentes tamanhos de tela (desktops, tablets e smartphones) para oferecer uma ótima experiência de visualização em qualquer dispositivo.
 - **Home:** Contém uma breve apresentação, links para meu GitHub e LinkedIn, e uma chamada para entrarem em contato para verem meus projetos e solicitarem meu trabalho.
-- **Currículo:** Um currículo em formato de página web, detalhando minhas habilidades, projetos e estudos.
+- **Currículo:** Um currículo em formato de página web, detalhando meus projetos e estudos.
 - **Sobre mim:** Uma página dedicada a contar um pouco sobre minha jornada e paixão por desenvolvimento web.
 
 ## 🚀 Tecnologias Utilizadas
