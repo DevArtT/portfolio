@@ -12,6 +12,24 @@ Este é o meu portfólio pessoal e profissional, desenvolvido durante as aulas d
 - **Currículo:** Um currículo em formato de página web, detalhando meus projetos e estudos.
 - **Sobre mim:** Uma página dedicada a contar um pouco sobre minha jornada e paixão por desenvolvimento web.
 
+  ## 🧠 Habilidades e Aprendizados
+
+Durante este projeto, aprimorei meus conhecimentos e aprendi a aplicar os seguintes conceitos:
+
+- **Estrutura e Estilização:**
+    - Utilização de classes no HTML e CSS para organizar e estilizar os elementos.
+    - Boas práticas na criação de classes e no posicionamento de elementos com CSS.
+- **Box Model:** Aprofundamento no uso de `margin` e `padding` para controlar o espaçamento e o layout.
+- **Layout com Flexbox:** Uso de `display: flex` para alinhar e distribuir elementos de forma flexível.
+- **Unidades de Medida:**
+    - Compreensão da unidade de medida `rem` para criar fontes adaptáveis a diferentes dispositivos e tamanhos de fonte padrão do navegador.
+    - Utilização de porcentagem (`%`) para definir a largura de elementos de forma fluida.
+    - Entendimento do `px` como uma medida fixa.
+- **Seletores e Pseudoclasses:**
+    - Diferentes seletores CSS para estilizar elementos específicos.
+    - Aplicação de pseudoclasses como `:hover` e `:active` para criar interatividade nos elementos.
+- **Ferramentas de Desenvolvimento:** Habilidade para inspecionar e testar elementos da página usando as ferramentas de desenvolvimento do navegador.
+
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
